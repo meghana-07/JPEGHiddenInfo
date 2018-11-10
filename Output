@@ -1,0 +1,34 @@
+Enter image file name
+download.jpeg
+Size of file is 5979 bytes
+This is a jpeg file as SOI(Start of Image) and EOI(End of Image) match that of jpeg file
+Start of first JFIF Application Segment
+This image has only JFIF Application Segment, no other optional application segments.
+Length of APP0 segment is 16
+Identifier(should be JFIF followed by a null byte) is  b'JFIF\x00'
+JFIF major version 1 minor version 1 ==> JFIF version 1 . 1
+Density Unit(0-No unit,1-Pixels per inch,2-Pixels per centimeter) 0
+Horizontal pixel density is 1
+Vertical pixel density is 1
+Thumbnail image doesn't exist.
+DQT(Define Quantization Table) found at index 20
+Length of QT is 132
+Quantization data in decimal form is:
+0 9 6 7 19 18 18 21 18 18 18 21 16 16 15 21 15 16 15 21 16 15 15 15 21 15 16 21 21 22 22 21 21 22 23 24 29 40 32 24 26 37 27 21 21 33 49 33 37 42 43 46 46 46 23 31 51 56 51 44 55 40 45 46 43 1 10 10 10 5 5 5 14 5 5 14 43 25 19 25 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 43 
+SOF0(Start of Frame 0) found at index 154
+Length of SOF0 is  17
+Data precision(Bits per pixel per color component) is 8
+Image height is 183 pixels
+Image width is 275 pixels
+No. of components in image is 3
+RGB image(3 = color YcbCr or YIQ)
+1 34 0 2 17 1 3 17 1 
+SOF1 not found
+SOF2 not found
+SOF3 not found
+Huffman Table found at index 173
+Length of huffman Table is 28 bytes
+Huffman Information(type of HT, 0 = DC table, 1 = AC table) = 0
+Huffman coding info b'\x00\x01\x05\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x02\x03\x05\x06\x01\x07\x08\xff\xc4\x00>\x10\x00\x02\x02\x01\x02\x03\x05\x05\x05\x06\x05\x04\x03\x00\x00\x00\x01\x02\x00\x03\x11\x04!\x05\x121\x06AQaq\x07\x13"\x81\xa1#2B\x91\xb1\x14Rbr\x82\xd1$\x92\xc1\xe1\xf03C\xa2\xf1\x16c\xb2\xff\xc4\x00\x14\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xc4\x00\x14\x11\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+Start of Scan marker found at index 311
+Length of SOS marker is 12 bytes
